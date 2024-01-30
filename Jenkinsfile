@@ -4,3 +4,4 @@ node{
    cat sample.txt
    """
 }
+}
