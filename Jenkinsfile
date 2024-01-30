@@ -4,7 +4,7 @@ node{
     }
  stage("display file content"){
    sh """#!/bin/bash
-   ls -l
+   cat sample.txt
    """
 }
 }
